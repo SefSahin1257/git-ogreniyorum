@@ -10,4 +10,10 @@ Bu proje GitHub ile senkronize edilmiştir.
 Bu satır GiitHub üzerinden eklendi.
 ## Takım
 Bu bölüm ekip çalışması senaryosu için eklendi.
-
+## Öğrendiklerim
+- Git temel çalışma mantığı
+- Branch oluşturma ve birleştirme
+- Merge conflict etme
+- GitHub remote kullanımı
+- Push, fetch ve pull
+- Pull Request çalışma akışı 
