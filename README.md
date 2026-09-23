@@ -6,3 +6,4 @@ Bu repository Git komutlarını uygulamalı öğrenmek için oluşturuldu
 Bu bölüm feature/about branch üzerinde geliştirildi.
 ## İletişim
 GitHub üzerinden iletişime geçebilirsiniz
+Bu proje GitHub ile senkronize edilmiştir.
