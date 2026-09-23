@@ -13,7 +13,7 @@ Bu bölüm ekip çalışması senaryosu için eklendi.
 ## Öğrendiklerim
 - Git temel çalışma mantığı
 - Branch oluşturma ve birleştirme
-- Merge conflict etme
+- Merge conflict çözme
 - GitHub remote kullanımı
 - Push, fetch ve pull
 - Pull Request çalışma akışı 
