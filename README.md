@@ -1,4 +1,4 @@
-#Git öğreniyorum
+# Git dersleri
 Git ve GitHub öğrenmek için oluşturduğum deneme projesi
 Bu repository Git komutlarını uygulamalı öğrenmek için oluşturuldu
 ## Hakkında
