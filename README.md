@@ -8,3 +8,6 @@ Bu bölüm feature/about branch üzerinde geliştirildi.
 GitHub üzerinden iletişime geçebilirsiniz
 Bu proje GitHub ile senkronize edilmiştir.
 Bu satır GiitHub üzerinden eklendi.
+## Takım
+Bu bölüm ekip çalışması senaryosu için eklendi.
+
